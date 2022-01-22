@@ -1,7 +1,6 @@
 zwrotka-1.txt
 
-They will never forgive you but they won't let you go, oh no
-She will never forgive you but she won't let you go, oh no
+refren-1.txt
 
 Don't look back into the sun
 You've cast your pearls but you're on the run
